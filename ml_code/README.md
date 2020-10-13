@@ -6,4 +6,4 @@ It's an ultra clean & lean place where we maintain the absolutely necessary code
 
 We must create some scripts for the following jobs: 
 
-* we should fill it
+* we should define them...
